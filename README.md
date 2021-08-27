@@ -4,9 +4,9 @@
 </h2>
 
 ## 👨‍💼 Who am I?
-##### Backend Developer
-##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
-##### [LSD (Distributed Systems Laboratory)](https://www.lsd.ufcg.edu.br/#/) student researcher
+- ##### Backend Developer
+- ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
+- ##### [LSD (Distributed Systems Laboratory)](https://www.lsd.ufcg.edu.br/#/) student researcher
 
 ## 🛠️ My favorite tools
 
