@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+
+
+
+
+
+
 ## 👨‍💼 Who am I?
 - ##### Backend Developer
 - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
