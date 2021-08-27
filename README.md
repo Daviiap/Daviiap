@@ -4,7 +4,9 @@
 </h2>
 
 ## 👨‍💼 Who am I?
-Backend Developer
+#### Backend Developer
+#### Computer Science Student at [UFCG]()
+#### Serch [LSD](https://www.lsd.ufcg.edu.br/#/)
 
 ## 🛠️ My favorite tools
 
