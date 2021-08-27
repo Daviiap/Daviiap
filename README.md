@@ -32,7 +32,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FFA500.svg?logo=amazon&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FF9D00.svg?logo=amazon&logoColor=white"></a>
 </p>
 
 
