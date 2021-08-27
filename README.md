@@ -42,6 +42,16 @@ Backend Developer
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FF9D00.svg?logo=amazon&logoColor=white"></a>
 </p>
 
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-fc9003.svg?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
 
 
 ## 📊 Github stats
