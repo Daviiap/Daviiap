@@ -63,8 +63,6 @@
 
 [![Junior's github stats](https://github-readme-stats.vercel.app/api?username=Daviiap&count_private=true&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daviiap's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviiap&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-
 <p align="left"> 
   Visits count on my profile: <br/>
   <img src="https://profile-counter.glitch.me/daviiap/count.svg">
