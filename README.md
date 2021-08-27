@@ -22,7 +22,7 @@
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/SocketIo-FFFFFF.svg?logo=socket.io&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/SocketIo-000000.svg?logo=socket.io&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
