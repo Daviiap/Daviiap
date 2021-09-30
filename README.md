@@ -10,6 +10,7 @@
 - ##### Backend Developer
 - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
 - ##### [LSD (Distributed Systems Laboratory)](https://www.lsd.ufcg.edu.br/#/) student researcher
+- ##### Backend developer at [nuvidio](https://nuvidio.com.br/)
 
 ## 🛠️ My favorite tools
 
