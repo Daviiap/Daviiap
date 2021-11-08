@@ -47,6 +47,7 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FF9D00.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-d1303e.svg?logo=openstack&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-288fbf.svg?logo=kubernetes&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
