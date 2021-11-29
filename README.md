@@ -40,7 +40,6 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <!--<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>-->
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -48,6 +47,7 @@
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FF9D00.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-d1303e.svg?logo=openstack&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-288fbf.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Kafka" src ="https://img.shields.io/badge/Kafka-ffffff.svg?logo=apachekafka&logoColor=black"></a>
 </p>
 
 ### 💻 Software and tools
