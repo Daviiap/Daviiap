@@ -18,15 +18,8 @@
 <p>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=typescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=javascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=c"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=c++"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=css"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=golang"><img alt="Go" src="https://img.shields.io/badge/Go-329da8.svg?logo=go&logoColor=white"></a>
-    <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=sql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -34,8 +27,9 @@
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/SocketIo-20232a.svg?logo=socket.io&logoColor=white"></a>
+    <a href="#"><img alt="SPIFFE" src="https://img.shields.io/badge/SPIFFE-03fcfc.svg?logo=spiffe&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-288fbf.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Kafka" src ="https://img.shields.io/badge/Kafka-ffffff.svg?logo=apachekafka&logoColor=black"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -47,8 +41,6 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/aws-FF9D00.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-d1303e.svg?logo=openstack&logoColor=white"></a>
-    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-288fbf.svg?logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="Kafka" src ="https://img.shields.io/badge/Kafka-ffffff.svg?logo=apachekafka&logoColor=black"></a>
 </p>
 
 ### 💻 Software and tools
