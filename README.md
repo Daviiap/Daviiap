@@ -25,6 +25,7 @@
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=golang"><img alt="Go" src="https://img.shields.io/badge/Go-329da8.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/Daviiap?tab=repositories&q=&type=&language=sql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
